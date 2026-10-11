@@ -1,0 +1,1 @@
+Preview index.html in a browser. Replace @REPLACE_WITH_YOUR_HANDLE and REPLACE_WITH_YOUR_EMAIL in index.html. Keep index.html, style.css and the three sample PNG files together. This static site has not been hosted yet.
